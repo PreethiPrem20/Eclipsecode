@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-21T12:54:00 IST" name="Default suite" finished-at="2024-05-21T12:54:01 IST" duration-ms="1121">
+    <groups>
+    </groups>
+    <test started-at="2024-05-21T12:54:00 IST" name="Default test" finished-at="2024-05-21T12:54:01 IST" duration-ms="1121">
+      <class name="excelDataProvider.dataProvide">
+        <test-method signature="testData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:excelDataProvider.dataProvide@4b0d79fc]" started-at="2024-05-21T12:54:01 IST" name="testData" data-provider="dataTest" finished-at="2024-05-21T12:54:01 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[text]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method signature="testData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:excelDataProvider.dataProvide@4b0d79fc]" started-at="2024-05-21T12:54:01 IST" name="testData" data-provider="dataTest" finished-at="2024-05-21T12:54:01 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bye]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Message]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[143]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method signature="testData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:excelDataProvider.dataProvide@4b0d79fc]" started-at="2024-05-21T12:54:01 IST" name="testData" data-provider="dataTest" finished-at="2024-05-21T12:54:01 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Solo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[call]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[222]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+      </class> <!-- excelDataProvider.dataProvide -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
